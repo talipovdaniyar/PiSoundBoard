@@ -1,2 +1,0 @@
-C:\Users\D\Source\Repos\PiSoundBoard\PiSoundBoard.Api\PiSoundBoard.Api.csproj;arm
-C:\Users\D\Source\Repos\PiSoundBoard\PiSoundBoard.Daemon\PiSoundBoard.Daemon.csproj;arm
